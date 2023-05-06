@@ -1,0 +1,12 @@
+{
+  "remoteUser": "root",
+  "containerUser": "dev",
+  "dockerComposeFile": [
+    "./docker-compose.yml"
+  ],
+  "runServices": [
+    "local"
+  ],
+  "service": "local",
+  "workspaceFolder": "/usr/src/app"
+}
