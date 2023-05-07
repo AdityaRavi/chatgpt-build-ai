@@ -26,6 +26,8 @@ npm install
 npm run serve
 ```
 
+and then navigate to http://localhost:8080 on your browser
+
 ## Train the classifier with Docker
 ```sh
 cd classifier
